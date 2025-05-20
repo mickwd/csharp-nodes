@@ -1,0 +1,10 @@
+C:\Users\admin\Desktop\facu\dev\ListasSimplementeEnlazadas\bin\Debug\ListasSimplementeEnlazadas.exe.config
+C:\Users\admin\Desktop\facu\dev\ListasSimplementeEnlazadas\bin\Debug\ListasSimplementeEnlazadas.exe
+C:\Users\admin\Desktop\facu\dev\ListasSimplementeEnlazadas\bin\Debug\ListasSimplementeEnlazadas.pdb
+C:\Users\admin\Desktop\facu\dev\ListasSimplementeEnlazadas\obj\Debug\ListasSimplementeEnlazadas.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\facu\dev\ListasSimplementeEnlazadas\obj\Debug\ListasSimplementeEnlazadas.Form1.resources
+C:\Users\admin\Desktop\facu\dev\ListasSimplementeEnlazadas\obj\Debug\ListasSimplementeEnlazadas.Properties.Resources.resources
+C:\Users\admin\Desktop\facu\dev\ListasSimplementeEnlazadas\obj\Debug\ListasSimplementeEnlazadas.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\facu\dev\ListasSimplementeEnlazadas\obj\Debug\ListasSimplementeEnlazadas.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\facu\dev\ListasSimplementeEnlazadas\obj\Debug\ListasSimplementeEnlazadas.exe
+C:\Users\admin\Desktop\facu\dev\ListasSimplementeEnlazadas\obj\Debug\ListasSimplementeEnlazadas.pdb
