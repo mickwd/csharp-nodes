@@ -8,13 +8,13 @@ namespace ListasSimplementeEnlazadas
 {
     internal class Nodo
     {
-        public string Dato { get; set; }
-        public Nodo Siguiente { get; set; }
+        public string Dato { get; set; } // Se establece la priopiedad 'dato' como <string>
+        public Nodo Siguiente { get; set; } // Se hace 'recursivo' la clase.
 
-        public Nodo(string _dato) 
+        public Nodo(string _dato) // Se crea la funcion Nodo para poder crear nodos mas tarde.
         { 
             Dato = _dato;
-            Siguiente = null;
+            Siguiente = null; // null
         }
     }
 }
